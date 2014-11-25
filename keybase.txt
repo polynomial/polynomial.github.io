@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/polynomial
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.huugs.com
+  * I am polynomial (https://keybase.io/polynomial) on keybase.
+  * I have a public key with fingerprint 6883 3F35 8148 BCE4 AA81  6CA8 D61B F068 FB8F C8A7
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "68833f358148bce4aa816ca8d61bf068fb8fc8a7",
+            "host": "keybase.io",
+            "key_id": "d61bf068fb8fc8a7",
+            "uid": "9b067118f218b47dedc2a6e2388cce00",
+            "username": "polynomial"
+        },
+        "service": {
+            "hostname": "www.huugs.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1416941800,
+    "expire_in": 157680000,
+    "prev": "8f657d2efa9dc5b5e92d77b24f520c1746000e6ee4df3220d36e9776bd42b75b",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.6
+Comment: https://keybase.io/crypto
+
+yML9AnicO8LLzMDFeE36Q8bv/hPLGU8f+FLKEFJy4UW1UlJ+SqWSVbVSdiqYSsvM
+S08tKijKzCtRslIys7AwNk4zNrUwNLFISk41SUy0MDRLTrRIMTNMSjMws0hLskhL
+tkg0V9JRysgvBukAGpOUWJyql5kPFANy4jNTgKJY1JeCJSyTDMzMDQ0t0owMLZJM
+zFNSU5KNEs1SjYwtLJKTUw0MQAqLU4vyEnNTgaoL8nMq8/JzMxNzlGp1lIDiZZnJ
+qSBXgyyHqikvL9fLKC1NL9ZLzs8Fai8oyi/JT87PAUpllJQUWIF0llQWgJWmJsVD
+DYlPysxLAXodqKEstag4Mz9PycoQqDK5JBNkqqGJoZmliaGFgYGOUmpFQWZRanwm
+SIWpuRlQDCRaUJRaBjTSIs3M1DzFKDUt0TIl2TTJNNXSKMXcPMnIJM3UyCDZ0NzE
+DKg61Sw11SQlzdjIyCDF2CzV0tzcLCnFxCjJ3DRJCeStwrx8JStToDMT04FGFmem
+5yWWlBalKtUeOhjDwsDIxcDGygSKPAYuTgFYlO59I8Cw6vHX2MR/C9uEkwV2WllP
++Wh7IzWP6cd1ewsuVZZXT7OOJhxUbi9udE5Yt5HDlUfXZsn8dUFfuiKKv8du6n3H
+sXxL1oWCzakPphxkM3aNb1R+81fT4n9Xuslh1efVsfvZi99untnw8OoKlhO+DYeX
+WW3+63d65rK2LyWLzPWPvcme05FZOnfzSUaVG0ei2F7821odlLzTWs5h5xTZKMtA
+7yBBjy8uS2223/zc7WnII5O3taXw+dHCdj6eljX6231UOCcpmfjfW/l3gWGrG9e+
+FQmuYaLaand3JCn+/+vTXv3RzjB6joPEFoutR7Svyisv2Bu2xWrZg7n38vQaA02L
+Lk5I/Xa3NeVBy7cJW0r1NtadkFl//EhhY+R2T/HyO15a7s6Cq3O3fLL0CWmevuGr
+y49JV76W9viFcJ6Vrt3NX3rlumb4QY7deaKVLCemKPkIxtjJpnoGFrnMj629GZPB
+X9WqeFdcqqFgf22Lz4PgY+JTdnaJnzlqoyfuc8hS/cTDJZ+67N7l5ujIpav7v+Ze
+GijsZvVyufZHrpvsTvts1T68TOITkFxq8j/2UYjKrPbJm+wdK4M3rvQWSXfc73rH
+45uq39RZv98ua59zlr3P4ubHCydWybR3XbySw/F3YtEPYbn7989xxLFJHPNfV7Py
+Sf2s/89Fzfv27LvJGVOVxSlXFedU8vbWTEPH8zJuu93/rPQJeJD541CTLQDztpUw
+=Hdba
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/polynomial
+
+==================================================================
+
